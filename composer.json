@@ -1,0 +1,14 @@
+{
+  "name": "strekoza/available-slash-for-categor-url-key",
+  "description": "Magento 2 extension. Will available in use Slash \"/\" in Url Key of Category.\n",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "magefast",
+      "email": "magefast@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
